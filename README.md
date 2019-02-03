@@ -89,7 +89,7 @@ invertible.
 In order to complete this assignment, you must do the following:
 
 1.  Fork the GitHub repository containing the stub R files at
-    [https://github.com/rdpeng/ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2)
+    [https://github.com/rdpeng/ProgrammingAssignment2](https://github.com/rrr2u/DataS)
     to create a copy under your own account.
 2.  Clone your forked GitHub repository to your computer so that you can
     edit the files locally on your own machine.
@@ -101,5 +101,12 @@ In order to complete this assignment, you must do the following:
     the completed R code for the assignment.
 
 ### Grading
+Getting and Cleaning Data Course Project
 
-This assignment will be graded via peer assessment.
+This repository is a Rajaram Ramachandran submission for Getting and Cleaning Data course project. 
+It has the instructions on how to run analysis on Human Activity recognition dataset.
+
+Dataset
+Human Activity Recognition Using Smartphones
+
+
